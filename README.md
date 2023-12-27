@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshots
 
-![](./screenshots/order-summary-card-desktop.png)
+![](./screenshots/desktop-design.jpg)
 
 ## My process
 
