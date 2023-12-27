@@ -1,4 +1,4 @@
-# Frontend Mentor - Order summary card solution
+# Frontend Mentor - Huddle landing page
 
 This is a solution to the [Huddle landing page](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0) Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
